@@ -26,7 +26,7 @@ choice for this exercise.
 7. Build a LLM based retriever with examples.
 
 ### Improvements for the future
-1. Add more parameters for meta data like paragraph number, etc. for better tracebility and catching halucinations quickly.
+1. Add more parameters for meta data like paragraph number, etc. for better tracebility and catching hallucinations quickly.
 2. Understand the use case better and tune the similarity based on that, using threshold or number of outputs required or the type of similarity function. 
 3. Study text splitter parameters and how it affects the output.
 4. Clean data to remove the citations in the end of file if its not required, and some minor data cleaning.
