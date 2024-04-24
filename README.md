@@ -33,5 +33,5 @@ choice for this exercise.
 5. Build a UI for the users to be able to search on an interface rather than a notebook.
 6. Build data pipeline scripts and not use the python notebook to be used in production.
 7. Model needs to better decide between general knowledge and the given context. Example below: 
-   ![image](https://github.com/Anshumank399/RAG-based-context-AI/assets/21052254/5dd49e3e-6769-4dbe-8f3f-07cc0b0db6a5)
+   ![image](https://github.com/Anshumank399/RAG-based-context-AI/assets/21052254/2fc1b659-c799-4329-8980-1c13af93a41b)
 
