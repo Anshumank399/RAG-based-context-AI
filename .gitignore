@@ -139,7 +139,7 @@ venv.bak/
 /
 
 # datastores
-data/
+vector_db/
 
 # mypy
 .mypy_cache/
